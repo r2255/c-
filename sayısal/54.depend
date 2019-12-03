@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1480370623 source:c:\users\asus-\desktop\54\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1481742920 source:c:\users\asus-\desktop\sayısal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1482346741 source:c:\users\asus-\desktop\--c--\sayısal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
